@@ -7,11 +7,11 @@
   "author": "wabi91 <qlqjsk@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js ios"
+    "start": "node index.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
     "puppeteer": "^2.0.0",
     "terminal-kit": "^1.32.3"
   },
