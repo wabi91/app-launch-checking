@@ -1,0 +1,5 @@
+IOSURL = "ios url address"
+ANDROIDURL = "android url address"
+
+IOS_EL_PATH = "ios web element path"
+ANDROID_EL_PATH = "android web element path"
