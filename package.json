@@ -1,0 +1,9 @@
+{
+  "name": "app-launch-checking",
+  "version": "1.0.0",
+  "description": "After the app is deployed, check when it comes to store (ios/android)",
+  "main": "index.js",
+  "repository": "git@github.com:wabi91/app-launch-checking.git",
+  "author": "wabi91 <qlqjsk@gmail.com>",
+  "license": "MIT"
+}
