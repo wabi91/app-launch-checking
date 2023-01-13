@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "moment": "^2.24.0",
     "puppeteer": "^2.0.0",
-    "terminal-kit": "^1.32.3"
+    "terminal-kit": "^2.1.8"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
